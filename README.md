@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @masud-ocn-du
+- 👋 Hi, I’m Md Masud-Ul-Alam
 - 👀 I’m interested in Satellite and Ocean-optics, Ocean Modelling, Big Data and Artificial Intelligence, Ocean Eddies, and Climatology. 
-- 🌱 I’m currently working on a project comparing Seahawk sensors with other ocean color sensors i.e., Modis-Aqua, Terra, and VIIRS. 
-- 💞️ I’m looking to collaborate on anyone working in the field of Ocean color, Oceanography, and Meteorology.
+- 🌱 I’m currently working on a project on building a hyperspectral algorithm for estimating total suspended solids in the South Atlantic Bight.
+- 💞️ I’m looking to collaborate with anyone working in Ocean color, Oceanography, and Meteorology.
 - 📫 How to reach me email: masudocndu@uga.edu
 
 <!---
